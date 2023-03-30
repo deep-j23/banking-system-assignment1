@@ -10,7 +10,7 @@ Amandeep Kaur
   Banking management system use case diagram
   class diagram
   ### Critical Evaluation
-     Methodol
+     Methodology
      Agile Process
      #### Software Techniques
           Project management 
